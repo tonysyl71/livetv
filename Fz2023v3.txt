@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 CUID="16" tvg-name="Nagorik TV BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV BPL
-http://103.172.29.174/trdtrdesresreftctctuhjnuuhbvyfctfctctrsrzseqactftctooiouyutoxtrdxresze.m3u8
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8?token=6784e4cf603f12f8dd5d0be97177d6328a8fd9c6-3f4a0f447e91dc4357d53073302e8fec-1673965237-1673954437
 #EXTINF:0 CUID="17" tvg-name="Btv" tvg-logo="http://bciptv.net/assets/images/btv.jpg" group-title="Bangla",Btv
 http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8?token=f8de4cb8bcf1f83368ca84eea4525a233fd39214-f169dc1806c3c71598dd5300f297f761-1672758017-1672747217
 #EXTINF:0 CUID="18" tvg-name="Maasranga" tvg-logo="http://bciptv.net/assets/images/maasranga.jpg" group-title="Bangla",Maasranga
@@ -13,8 +13,8 @@ http://15.1.5.22:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=19f9f98087692e35aa39b
 http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8?token=e3eee1ed2908097c02d6257305083136474da9ff-dc3ff611adad80adb591acf53a53659b-1672758164-1672747364
 #EXTINF:0 CUID="22" tvg-name="Somoy TV" tvg-logo="http://bciptv.net/assets/images/somoy.jpg" group-title="Bangla",Somoy TV
 http://15.1.5.22:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=4a44b801777f4d43cbdd20d129d3077eff84410c-ec7fc6afa5082ca544d8026494a10111-1672758165-1672747365
-#EXTINF:0 CUID="23" tvg-name="Jamuna TV" tvg-logo="http://bciptv.net/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV
-http://15.1.5.22:8082/jamuna-tv/tracks-v1a1/mono.m3u8?token=79b8b3e4c7c9460bce592efdea749d6bf5a7de04-27a432c4af4113a42920f1ee66aeaed2-1672758223-1672747423
+#EXTINF:0 CUID="23" tvg-name="Jamuna TV HD" tvg-logo="http://bciptv.net/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 CUID="24" tvg-name="News 24" tvg-logo="http://bciptv.net/assets/images/news24.jpg" group-title="Bangla",News 24
 http://15.1.5.22:8082/News24bd/tracks-v1a1/mono.m3u8?token=2f0cf19db5b00e01c835f9e59bf344e09750bf74-5dd43cbcbedd176fba51807d3ee8303b-1672758252-1672747452
 #EXTINF:0 CUID="25" tvg-name="Channel 24" tvg-logo="http://bciptv.net/assets/images/channel24.jpg" group-title="Bangla",Channel 24
