@@ -13,7 +13,7 @@ http://15.1.5.22:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=19f9f98087692e35aa39b
 http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8?token=e3eee1ed2908097c02d6257305083136474da9ff-dc3ff611adad80adb591acf53a53659b-1672758164-1672747364
 #EXTINF:0 CUID="22" tvg-name="Somoy TV" tvg-logo="http://bciptv.net/assets/images/somoy.jpg" group-title="Bangla",Somoy TV
 http://15.1.5.22:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=4a44b801777f4d43cbdd20d129d3077eff84410c-ec7fc6afa5082ca544d8026494a10111-1672758165-1672747365
-#EXTINF:0 CUID="23" tvg-name="Jamuna TV HD" tvg-logo="http://bciptv.net/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV
+#EXTINF:0 CUID="23" tvg-name="Jamuna TV HD" tvg-logo="http://bciptv.net/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 CUID="24" tvg-name="News 24" tvg-logo="http://bciptv.net/assets/images/news24.jpg" group-title="Bangla",News 24
 http://15.1.5.22:8082/News24bd/tracks-v1a1/mono.m3u8?token=2f0cf19db5b00e01c835f9e59bf344e09750bf74-5dd43cbcbedd176fba51807d3ee8303b-1672758252-1672747452
