@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 CUID="16" tvg-name="Fancode Nagorik TV BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Fancode TV BPL
+#EXTINF:0 CUID="16" tvg-name="Fancode Nagorik TV BPL" tvg-logo="https://appedus.com/wp-content/uploads/2021/04/IPL-Scores-_-Liv.png" group-title="Bangla",Fancode TV BPL
 https://sportscentral.ml/BPL-2023/AUTO.m3u8
 #EXTINF:0 CUID="17" tvg-name="Btv" tvg-logo="http://bciptv.net/assets/images/btv.jpg" group-title="Bangla",Btv
 http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8?token=f8de4cb8bcf1f83368ca84eea4525a233fd39214-f169dc1806c3c71598dd5300f297f761-1672758017-1672747217
@@ -81,7 +81,7 @@ http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8?token=98efd084861de9e659538b88e9
 http://15.1.5.18:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8?token=d9fa67ce5f1da84494a021b7d0fae6802e5e436a-d9f10d89b6caa2853f6557fec2244f96-1672760015-1672749215
 #EXTINF:0 CUID="3" tvg-name="Zee bangla Cinema" tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Sports",Zee bangla Cinema
 http://15.1.5.22:8082/zee-bangla-cinema/tracks-v5a1/mono.m3u8?token=655cecd7a722c0b1ccbf744bbf755e0b649e3bef-f2704bb9bdcb776a01b4bbeb06441de2-1672757102-1672746302
-#EXTINF:0 CUID="8" tvg-name="Eurosports FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sports18.png/revision/latest?cb=20220415104510" group-title="Sports",Eurosports FHD
+#EXTINF:0 CUID="8" tvg-name="Eurosports FHD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Sports",Eurosports FHD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 #EXTINF:0 CUID="43" tvg-name="Willow HD" tvg-logo="http://bciptv.net/assets/images/willowhd.jpg" group-title="Sports",Willow HD
 http://15.1.5.10:8082/willow-hd/tracks-v1a1/mono.m3u8?token=de2e710edeaae23f3a7d96bb5db40b6120dd514b-248670adf4f747ef8ef64345f74bd0e0-1672759293-1672748493
