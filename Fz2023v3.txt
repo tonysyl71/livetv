@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:0 CUID="16" tvg-name="Fancode Nagorik TV BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Fancode TV BPL
-http://jiocinema-localiptv.tk/SSvRR.m3u8#EXTINF:0 CUID="17" tvg-name="Btv" tvg-logo="http://bciptv.net/assets/images/btv.jpg" group-title="Bangla",Btv
+https://sportscentral.ml/BPL-2023/AUTO.m3u8
+#EXTINF:0 CUID="17" tvg-name="Btv" tvg-logo="http://bciptv.net/assets/images/btv.jpg" group-title="Bangla",Btv
 http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8?token=f8de4cb8bcf1f83368ca84eea4525a233fd39214-f169dc1806c3c71598dd5300f297f761-1672758017-1672747217
 #EXTINF:0 CUID="18" tvg-name="Maasranga" tvg-logo="http://bciptv.net/assets/images/maasranga.jpg" group-title="Bangla",Maasranga
 http://15.1.5.10:8082/maasranga/tracks-v1a1/mono.m3u8?token=8625f2a61e8ac7ca23d94066832df54864d7e21e-c771931e1ed588f8291afc3a3792d20f-1672758034-1672747234
