@@ -105,6 +105,6 @@ http://15.1.5.10:8082/STAR-SPORTS-2/index.m3u8?token=1a54bd2b61c35af5d8356f90e19
 http://15.1.5.22:8082/STAR-SPORTS-1/index.m3u8?token=b02db43ad93e3fc8fa14b5c742cfb83b7b8cc17c-abafa9b1f106b578a2692980acf14160-1672759775-1672748975
 #EXTINF:0 CUID="107" tvg-name="EPL" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/41ukv2h6cvn8kfyc_1621330302.jpeg" group-title="Foyzur Channels Not Work Always",EPL
 https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
-#EXTINF:0 CUID="108" tvg-name="Nagorik TV BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV BPL
+#EXTINF:0 CUID="108" tvg-name="Nagorik TV HD" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV BPL
 http://118.179.3.26/Nagorik/video.m3u8?token=rohabtv
 
