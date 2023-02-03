@@ -101,7 +101,7 @@ http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8?token=ee1a1f977d27303f887334
 http://15.1.5.22:8082/Star_Sport_Select1HD/index.m3u8?token=cbc65d3c174b7c860240d68f2b31fd4b76ad0eef-4b4cf4188dc739bdff710cbe39b9471d-1672759703-1672748903
 #EXTINF:0 CUID="51" tvg-name="Star Sports 2" tvg-logo="http://bciptv.net/assets/images/starsports2.jpg" group-title="Sports",Star Sports 2
 http://15.1.5.10:8082/STAR-SPORTS-2/index.m3u8?token=1a54bd2b61c35af5d8356f90e1980899cd55e404-856e5cb1b0ce3244c2431d2614eac412-1672759741-1672748941
-#EXTINF:0 CUID="53" tvg-name="Sports Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52n04HJBrcUFSfGZLgERlCyGAqIMa4C1SrA&usqp=CAU" group-title="Sports",Sports Max 
+#EXTINF:0 CUID="53" tvg-name="Sports Max TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52n04HJBrcUFSfGZLgERlCyGAqIMa4C1SrA&usqp=CAU" group-title="Sports",Sports Max 
 https://4k3u.short.gy/hls/BPL/sportsmax.m3u8
 #EXTINF:0 CUID="107" tvg-name="EPL" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/41ukv2h6cvn8kfyc_1621330302.jpeg" group-title="Foyzur Channels Not Work Always",EPL
 https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
