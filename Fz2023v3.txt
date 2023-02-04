@@ -106,5 +106,5 @@ https://4k3u.short.gy/hls/BPL/sportsmax.m3u8
 #EXTINF:0 CUID="107" tvg-name="EPL" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/41ukv2h6cvn8kfyc_1621330302.jpeg" group-title="Foyzur Channels Not Work Always",EPL
 https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
 #EXTINF:0 CUID="108" tvg-name="Nagorik TV HD" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV BPL
-http://118.179.3.26/Nagorik/video.m3u8?token=rohabtv
+http://118.179.3.26/Nagorik/tracks-v1a1/mono.m3u8?token=rohabtvbd
 
