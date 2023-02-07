@@ -105,8 +105,8 @@ https://jioeventullhls.akamaized.net/hls/live/2097649/imageoverlay_uhd/master.m3
 https://4k3u.short.gy/hls/BPL/sportsmax.m3u8
 #EXTINF:0 CUID="107" tvg-name="EPL" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/41ukv2h6cvn8kfyc_1621330302.jpeg" group-title="Foyzur Channels Not Work Always",EPL
 https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
-#EXTINF:0 CUID="108" tvg-name="Nagorik TV HD" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV BPL
-http://118.179.3.26/Nagorik/tracks-v1a1/mono.m3u8?token=rohabtvbd
+#EXTINF:0 CUID="108" tvg-name="Nagorik TV HD" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV HD BPL
+https://sg-2.dotfli.live/live-sports/tracks-v3a1/mono.m3u8?token=bd6f343c50dd71275c86cf5cb2f9b5006fc7af6e-dbc96715412b73d9ef1ec5657b2dd0af-1675766953-1675756153&remote=103.124.250.173
 #EXTINF:0 CUID="109" tvg-name="Nagorik TV HD BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV HD BPL
 http://172.16.29.250/hls/nagoriktv.m3u8
 
