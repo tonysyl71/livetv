@@ -109,6 +109,6 @@ https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
 http://bdixtv.serverbd247.com:1935/live/live2_720p/chunklist_w1826481135_tkc2VydmVyYmQyNDd0b2tlbmVuZHRpbWU9MTY3NTg0ODI4MCZzZXJ2ZXJiZDI0N3Rva2Vuc3RhcnR0aW1lPTE2NzU4NDEyODAmc2VydmVyYmQyNDd0b2tlbmhhc2g9M19wRjRrQWEyQkpqVWFuazBKOEFvbjlNNFFzbWozTDJBd1ZPSElPUWNRND0=.m3u8?serverbd247tokenendtime=1675848280&serverbd247tokenstarttime=1675841280&serverbd247tokenhash=3_pF4kAa2BJjUank0J8Aon9M4Qsmj3L2AwVOHIOQcQ4=
 #EXTINF:0 CUID="109" tvg-name="Nagorik TV HD BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV HD BPL
 http://172.16.29.250/hls/nagoriktv.m3u8
-#EXTINF:0 CUID="110" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Indian Channels",Zee TV
+#EXTINF:0 CUID="110" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Indian Channels",Zee TV
 http://172.16.29.250/hls/zeetv.m3u8
 
