@@ -77,8 +77,8 @@ http://15.1.5.18:8082/star-plus/index.m3u8?token=976c0fafa863f8fefe1a9174fe6a98c
 http://15.1.5.18:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=8740a4e8472d2f86889fb5a06efd85517d9f79c6-c0c9498b80b9af80acac79ff0c3f6481-1672757732-1672746932
 #EXTINF:0 CUID="15" tvg-name="9XM" tvg-logo="http://bciptv.net/assets/images/9xm.jpg" group-title="Indian Channels",9XM
 http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8?token=98efd084861de9e659538b88e94ced2912ed95b1-58fdb1904cde25fc6049811a0e044077-1672757822-1672747022
-#EXTINF:0 CUID="54" tvg-name="9x Jalwa" tvg-logo="http://bciptv.net/assets/images/9xjalwa.jpg" group-title="Indian Channels",9x Jalwa
-http://15.1.5.18:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8?token=d9fa67ce5f1da84494a021b7d0fae6802e5e436a-d9f10d89b6caa2853f6557fec2244f96-1672760015-1672749215
+#EXTINF:0 CUID="110" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Indian Channels",Zee TV
+http://172.16.29.250/hls/zeetv.m3u8
 #EXTINF:0 CUID="3" tvg-name="Zee bangla Cinema" tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Sports",Zee bangla Cinema
 http://15.1.5.22:8082/zee-bangla-cinema/tracks-v5a1/mono.m3u8?token=655cecd7a722c0b1ccbf744bbf755e0b649e3bef-f2704bb9bdcb776a01b4bbeb06441de2-1672757102-1672746302
 #EXTINF:0 CUID="8" tvg-name="Eurosports FHD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Sports",Eurosports FHD
@@ -109,6 +109,4 @@ https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
 http://bdixtv.serverbd247.com:1935/live/live2_720p/chunklist_w1826481135_tkc2VydmVyYmQyNDd0b2tlbmVuZHRpbWU9MTY3NTg0ODI4MCZzZXJ2ZXJiZDI0N3Rva2Vuc3RhcnR0aW1lPTE2NzU4NDEyODAmc2VydmVyYmQyNDd0b2tlbmhhc2g9M19wRjRrQWEyQkpqVWFuazBKOEFvbjlNNFFzbWozTDJBd1ZPSElPUWNRND0=.m3u8?serverbd247tokenendtime=1675848280&serverbd247tokenstarttime=1675841280&serverbd247tokenhash=3_pF4kAa2BJjUank0J8Aon9M4Qsmj3L2AwVOHIOQcQ4=
 #EXTINF:0 CUID="109" tvg-name="Nagorik TV HD BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV HD BPL
 http://172.16.29.250/hls/nagoriktv.m3u8
-#EXTINF:0 CUID="110" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Indian Channels",Zee TV
-http://172.16.29.250/hls/zeetv.m3u8
 
