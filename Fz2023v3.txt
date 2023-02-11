@@ -86,7 +86,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsu
 #EXTINF:0 CUID="43" tvg-name="Willow HD" tvg-logo="http://bciptv.net/assets/images/willowhd.jpg" group-title="Sports",Willow HD
 http://15.1.5.10:8082/willow-hd/tracks-v1a1/mono.m3u8?token=de2e710edeaae23f3a7d96bb5db40b6120dd514b-248670adf4f747ef8ef64345f74bd0e0-1672759293-1672748493
 #EXTINF:0 CUID="44" tvg-name="Sony Six HD" tvg-logo="http://bciptv.net/assets/images/sonysixhd.jpg" group-title="Sports",Sony Six HD
-http://15.1.5.22:8082/sony-six-hd/index.m3u8?token=6bac93c056341d8ace567b5b2f4a02033cba1fb8-15842b93a68fc8de876a2787153d2b41-1672759416-1672748616
+http://172.16.29.250/hls/sonysix.m3u8
 #EXTINF:0 CUID="45" tvg-name="Sony Ten 1 HD" tvg-logo="http://bciptv.net/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1 HD
 http://15.1.5.22:8082/ten1-hd/index.m3u8?token=52ed7ea5bce62c7e2ebaa416c863957125a5e2ba-b1f64212d90ba726bf757e12397d1274-1672759452-1672748652
 #EXTINF:0 CUID="46" tvg-name="Soy Ten2 HD" tvg-logo="http://bciptv.net/assets/images/ten2hd.jpg" group-title="Sports",Soy Ten2 HD
