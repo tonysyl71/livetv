@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:0 CUID="16" tvg-name="BPL Matchtime" tvg-logo="https://appedus.com/wp-content/uploads/2021/04/IPL-Scores-_-Liv.png" group-title="Bangla",BPL matchtime
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:0 CUID="17" tvg-name="Btv" tvg-logo="http://bciptv.net/assets/images/btv.jpg" group-title="Bangla",Btv
+http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8?token=f8de4cb8bcf1f83368ca84eea4525a233fd39214-f169dc1806c3c71598dd5300f297f761-1672758017-1672747217
+#EXTINF:0 CUID="18" tvg-name="Maasranga" tvg-logo="http://bciptv.net/assets/images/maasranga.jpg" group-title="Bangla",Maasranga
+http://15.1.5.10:8082/maasranga/tracks-v1a1/mono.m3u8?token=8625f2a61e8ac7ca23d94066832df54864d7e21e-c771931e1ed588f8291afc3a3792d20f-1672758034-1672747234
+#EXTINF:0 CUID="19" tvg-name="Ekattor TV" tvg-logo="http://bciptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV
+http://15.1.5.10:8082/Ekattor-tv/index.m3u8?token=d2c6c351c7a753aeaed65f28f349d1b8f90cd1d5-a19cb01e454914a2cbddfa9463d15433-1672758064-1672747264
+#EXTINF:0 CUID="20" tvg-name="DBC" tvg-logo="http://bciptv.net/assets/images/dbc.jpg" group-title="Bangla",DBC
+http://15.1.5.22:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=19f9f98087692e35aa39bdc0a2a47e6b52a35780-89492084c0a5b0392cb7686641620dc5-1672758098-1672747298
+#EXTINF:0 CUID="21" tvg-name="Independent TV" tvg-logo="http://bciptv.net/assets/images/independenttv.jpg" group-title="Bangla",Independent TV
+http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8?token=e3eee1ed2908097c02d6257305083136474da9ff-dc3ff611adad80adb591acf53a53659b-1672758164-1672747364
+#EXTINF:0 CUID="22" tvg-name="Somoy TV" tvg-logo="http://bciptv.net/assets/images/somoy.jpg" group-title="Bangla",Somoy TV
+http://15.1.5.22:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=4a44b801777f4d43cbdd20d129d3077eff84410c-ec7fc6afa5082ca544d8026494a10111-1672758165-1672747365
+#EXTINF:0 CUID="23" tvg-name="Jamuna TV HD" tvg-logo="http://bciptv.net/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV HD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:0 CUID="24" tvg-name="News 24" tvg-logo="http://bciptv.net/assets/images/news24.jpg" group-title="Bangla",News 24
+http://15.1.5.22:8082/News24bd/tracks-v1a1/mono.m3u8?token=2f0cf19db5b00e01c835f9e59bf344e09750bf74-5dd43cbcbedd176fba51807d3ee8303b-1672758252-1672747452
+#EXTINF:0 CUID="25" tvg-name="Channel 24" tvg-logo="http://bciptv.net/assets/images/channel24.jpg" group-title="Bangla",Channel 24
+http://15.1.5.10:8082/Channel24/index.m3u8?token=25955fd96ef1fdf9779b92efd58d6e8202cf48be-9a65f6af013f0c2ae528adbe7420a69c-1672758276-1672747476
+#EXTINF:0 CUID="26" tvg-name="ATN" tvg-logo="http://bciptv.net/assets/images/atnbangla.jpg" group-title="Bangla",ATN
+http://15.1.5.14:8082/ATN-Bangla/index.m3u8?token=b242df8dba6a2492681d0d2b7ec730f973f8596e-5cd035977dc00db99afe70733cbaeb95-1672758363-1672747563
+#EXTINF:0 CUID="27" tvg-name="Channel i" tvg-logo="http://bciptv.net/assets/images/channeli.jpg" group-title="Bangla",Channel i
+http://15.1.5.22:8082/Channel-i/index.m3u8?token=b7ef50495d159bb77da5dd0a2bfad6cf633f801e-0409641d0ff4b4d1210f2e9a763fe744-1672758354-1672747554
+#EXTINF:0 CUID="28" tvg-name="Ekushey TV" tvg-logo="http://bciptv.net/assets/images/ekushey.jpg" group-title="Bangla",Ekushey TV
+http://15.1.5.22:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=5a2285c29c22341f6faec2cae4203a47310fa5ce-78b25dde28ae6ff2bcb3d2a877ed1f43-1672758463-1672747663
+#EXTINF:0 CUID="29" tvg-name="Ntv" tvg-logo="http://bciptv.net/assets/images/ntv.jpg" group-title="Bangla",Ntv
+http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8?token=0bdeaf55881b578804dd362f6e2dacc6df584951-51e66ec5a86c076dd426ab1c996b91a3-1672758550-1672747750
+#EXTINF:0 CUID="30" tvg-name="Rtv HD" tvg-logo="http://bciptv.net/assets/images/rtv.jpg" group-title="Bangla",Rtv HD
+http://15.1.5.10:8082/RTV/index.m3u8?token=eb0b4dec10fcbaf72cdb645a5ae73c66b6494055-200f0aaafe711a6156cd0f3c86619bc7-1672758566-1672747766
+#EXTINF:0 CUID="31" tvg-name="SA Tv" tvg-logo="http://bciptv.net/assets/images/satv.jpg" group-title="Bangla",SA Tv
+http://15.1.5.10:8082/SATV/tracks-v1a1/mono.m3u8?token=7de9f845e9b03577a8118b2f56b678082c943263-75b41f2a234a9c4117973ca9a0dd8056-1672758638-1672747838
+#EXTINF:0 CUID="32" tvg-name="Asian TV" tvg-logo="http://bciptv.net/assets/images/asiantv.jpg" group-title="Bangla",Asian TV
+http://15.1.5.18:8082/AsianTV/tracks-v1a1/mono.m3u8?token=6394d813e0da0da48dc54a9ccf24d725e632039a-4b6b093073b9fe05f385481eead72404-1672758678-1672747878
+#EXTINF:0 CUID="33" tvg-name="Bangla Vision" tvg-logo="http://bciptv.net/assets/images/banglavision.jpg" group-title="Bangla",Bangla Vision
+http://15.1.5.14:8082/BanglaVision/index.m3u8?token=88670b773d8cda5a80fa48a31ebafbe22ad0e90f-22ba0ef5d9179c3c3949b90f21a62b46-1672758783-1672747983
+#EXTINF:0 CUID="34" tvg-name="Baishaki TV" tvg-logo="http://bciptv.net/assets/images/boishakhi.jpg" group-title="Bangla",Baishaki TV
+http://15.1.5.18:8082/Boishakhi/index.m3u8?token=1dfed6bfefb6f943d1f4565cba57ab4ec95d8c64-ca9dbc619340ebcdbbb3acc798fe4427-1672758789-1672747989
+#EXTINF:0 CUID="35" tvg-name="Deepto TV" tvg-logo="http://bciptv.net/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV
+http://15.1.5.22:8082/depto-bangla/index.m3u8?token=e6b18fabc6a584570daa62113d3c09ae86e97583-bdf0c8330fb06924fce72aaa6dbfa994-1672758824-1672748024
+#EXTINF:0 CUID="36" tvg-name="GaanBangla" tvg-logo="http://bciptv.net/assets/images/gaanbangla.jpg" group-title="Bangla",GaanBangla
+http://15.1.5.14:8082/GaanBangla/index.m3u8?token=58b4d2c387a64218c6cd6aede396b6de1d94f7fe-4a337e237b33fbfa374cc014b805b9e3-1672758895-1672748095
+#EXTINF:0 CUID="37" tvg-name="Mohona TV" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Bangla",Mohona TV
+http://15.1.5.10:8082/MohonaTV/index.m3u8?token=743cf168d2e68ba7360773f3c23c77d05f417fc8-2d6b4a61a89b6bfa634ddd59ea37c81d-1672758900-1672748100
+#EXTINF:0 CUID="39" tvg-name="My TV" tvg-logo="http://bciptv.net/assets/images/mytv.jpg" group-title="Bangla",My TV
+http://15.1.5.22:8082/MyTV/index.m3u8?token=383ab45d8df8c87419bc9042fd6c66ed82c67b3e-2dc85f6e7c6dbcbc9ea6b6a8be627aea-1672758936-1672748136
+#EXTINF:0 CUID="41" tvg-name="Anmals Planet" tvg-logo="http://bciptv.net/assets/images/animalplanetnew.jpg" group-title="Bangla",Anmals Planet
+http://15.1.5.10:8082/animalplanent/index.m3u8?token=381f960c4a0f4cfc7922118e1098d8dbaf284a25-a98666721562719e334a5c910335a90e-1672759055-1672748255
+#EXTINF:0 CUID="42" tvg-name="Nat Geo" tvg-logo="http://bciptv.net/assets/images/nationalgeobd.jpg" group-title="Bangla",Nat Geo
+http://15.1.5.14:8082/ngohd/index.m3u8?token=1bfdf222a731032262047bf2fb460ccfbf0786b5-0514038c8eeb79994fd89a016285c440-1672759140-1672748340
+#EXTINF:0 CUID="52" tvg-name="Sony AATH" tvg-logo="http://bciptv.net/assets/images/sonyaath.jpg" group-title="Bangla",Sony AATH
+http://15.1.5.14:8082/Sonyaath/index.m3u8?token=1f55531b3abdc7af841bf254ab87ee32d2e8c410-cf870e54b5a4bbdfea0266bb26a84473-1672759985-1672749185
+#EXTINF:0 CUID="1" tvg-name="Zee Bangla HD" tvg-logo="http://bciptv.net/assets/images/zeebanglahd.jpg" group-title="Indian Channels",Zee Bangla HD
+http://15.1.5.22:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=a844d2f8c0db2c31df0293c9b8f81493969310b5-39246997c5a2b730924109eb1b297d66-1672755330-1672744530
+#EXTINF:0 CUID="2" tvg-name="Star Jalsha" tvg-logo="http://bciptv.net/assets/images/starjalshahd.jpg" group-title="Indian Channels",Star Jalsha
+http://15.1.5.22:8082/jalsha/tracks-v1a1/mono.m3u8?token=490228daf98a60d67da31acf054f293003fc4a97-5b2f9a38a67e1ff274bef7f157c87fc7-1672757048-1672746248
+#EXTINF:0 CUID="4" tvg-name="jalsha Movies" tvg-logo="http://bciptv.net/assets/images/jalshamovies.jpg" group-title="Indian Channels",jalsha Movies
+http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=c93f9182f76b3fcacf6ca33f4d0bc4887ef6a8cb-4fd37303bc0abf9ec5feef0b6a2395c7-1672757159-1672746359
+#EXTINF:0 CUID="5" tvg-name="Colors bangla" tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian Channels",Colors bangla
+http://15.1.5.18:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=e3e652ef3eeedac9e9d432e9d7eb6b70b3b49a81-dc23434c2ff373f34716198a24de1655-1672757270-1672746470
+#EXTINF:0 CUID="6" tvg-name="Sony AATH" group-title="Indian Channels",Sony AATH
+http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=62e8effbf26bce320da5a846f23f32bc7e1f65d9-80c4dd6d28047e8d4b23ec309550f4a2-1671038092-1671027292
+#EXTINF:0 CUID="7" tvg-name="Sun bangla" tvg-logo="http://bciptv.net/assets/images/sunbangla.jpg" group-title="Indian Channels",Sun bangla
+http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8?token=4ff78cc27e4600df9e66d6d6e3924224f4b73fca-48a9554fdf4f357098d133c16faf50ba-1672757325-1672746525
+#EXTINF:0 CUID="9" tvg-name="Colors India" tvg-logo="http://bciptv.net/assets/images/colorshd.jpg" group-title="Indian Channels",Colors India
+http://15.1.5.22:8082/colorsindia/index.m3u8?token=7dc873c5d83096de3de76011e2a701a9ab1a616f-b95b116be68da1a4bcb3b11d806446c0-1672757500-1672746700
+#EXTINF:0 CUID="10" tvg-name="Star Gold" tvg-logo="http://bciptv.net/assets/images/stargold.jpg" group-title="Indian Channels",Star Gold
+http://15.1.5.22:8082/star-gold/index.m3u8?token=cc0b2428fb6d718b2a9b1d5ac25ff6317c6d29ad-0b01006154c34d0a69a4f4959142a7be-1672757550-1672746750
+#EXTINF:0 CUID="11" tvg-name="Sony Max" tvg-logo="http://bciptv.net/assets/images/sonymaxhd.jpg" group-title="Indian Channels",Sony Max
+http://15.1.5.22:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=f82923f962ae08cf1dedd5d6224f30d2258b673e-5595e64af73941124f4802eacccce1a4-1672757606-1672746806
+#EXTINF:0 CUID="12" tvg-name="Sony Sab" tvg-logo="http://bciptv.net/assets/images/sonysabhd.jpg" group-title="Indian Channels",Sony Sab
+http://15.1.5.10:8082/SONY-SUB/tracks-v1a1/mono.m3u8?token=4e4c4e6292dcd445284f6e954661582089c836a1-df2c998b7c964b04ab7af3e5e1cd38a9-1672757647-1672746847
+#EXTINF:0 CUID="13" tvg-name="Star Plus" tvg-logo="http://bciptv.net/assets/images/starplushd.jpg" group-title="Indian Channels",Star Plus
+http://15.1.5.18:8082/star-plus/index.m3u8?token=976c0fafa863f8fefe1a9174fe6a98c976414cec-ca04dcaf383894c956914db27381f9d4-1672757689-1672746889
+#EXTINF:0 CUID="14" tvg-name="Zee Cinema" tvg-logo="http://bciptv.net/assets/images/zeecinemahd.jpg" group-title="Indian Channels",Zee Cinema
+http://15.1.5.18:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=8740a4e8472d2f86889fb5a06efd85517d9f79c6-c0c9498b80b9af80acac79ff0c3f6481-1672757732-1672746932
+#EXTINF:0 CUID="15" tvg-name="9XM" tvg-logo="http://bciptv.net/assets/images/9xm.jpg" group-title="Indian Channels",9XM
+http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8?token=98efd084861de9e659538b88e94ced2912ed95b1-58fdb1904cde25fc6049811a0e044077-1672757822-1672747022
+#EXTINF:0 CUID="110" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Indian Channels",Zee TV
+http://172.16.29.250/hls/zeetv.m3u8
+#EXTINF:0 CUID="3" tvg-name="Zee bangla Cinema" tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Sports",Zee bangla Cinema
+http://15.1.5.22:8082/zee-bangla-cinema/tracks-v5a1/mono.m3u8?token=655cecd7a722c0b1ccbf744bbf755e0b649e3bef-f2704bb9bdcb776a01b4bbeb06441de2-1672757102-1672746302
+#EXTINF:0 CUID="8" tvg-name="Eurosports FHD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Sports",Eurosports FHD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
+#EXTINF:0 CUID="43" tvg-name="Willow HD" tvg-logo="http://bciptv.net/assets/images/willowhd.jpg" group-title="Sports",Willow HD
+http://15.1.5.10:8082/willow-hd/tracks-v1a1/mono.m3u8?token=de2e710edeaae23f3a7d96bb5db40b6120dd514b-248670adf4f747ef8ef64345f74bd0e0-1672759293-1672748493
+#EXTINF:0 CUID="44" tvg-name="Sony Six HD" tvg-logo="http://bciptv.net/assets/images/sonysixhd.jpg" group-title="Sports",Sony Six HD
+http://172.16.29.250/hls/sonysix.m3u8
+#EXTINF:0 CUID="45" tvg-name="Sony Ten 1 HD" tvg-logo="http://bciptv.net/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1 HD
+http://15.1.5.22:8082/ten1-hd/index.m3u8?token=52ed7ea5bce62c7e2ebaa416c863957125a5e2ba-b1f64212d90ba726bf757e12397d1274-1672759452-1672748652
+#EXTINF:0 CUID="46" tvg-name="Soy Ten2 HD" tvg-logo="http://bciptv.net/assets/images/ten2hd.jpg" group-title="Sports",Soy Ten2 HD
+http://15.1.5.10:8082/sony-ten2/index.m3u8?token=b847e22e83b784b029e3178ef8781a7c1e7c160d-1e281e91d202a228affb3c1c9ecd5e02-1672759516-1672748716
+#EXTINF:0 CUID="47" tvg-name="PTV Sports" tvg-logo="http://bciptv.net/assets/images/ptvsports.jpg" group-title="Sports",PTV Sports
+http://15.1.5.10:8082/PTV-SPORTS/index.m3u8?token=d172e30bd50aa7e29be3e443406ecf454e728bed-70df2e6d91f347269dc09daad4584348-1672759594-1672748794
+#EXTINF:0 CUID="48" tvg-name="Soy Ten3 HD" tvg-logo="http://bciptv.net/assets/images/ten3hd.jpg" group-title="Sports",Soy Ten3 HD
+http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=b847e22e83b784b029e3178ef8781a7c1e7c160d-1e281e91d202a228affb3c1c9ecd5e02-1672759516-1672748716
+#EXTINF:0 CUID="49" tvg-name="Star Sports Select 2" tvg-logo="http://bciptv.net/assets/images/starselect2.jpg" group-title="Sports",Star Sports Select 2
+http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8?token=ee1a1f977d27303f887334c842e7a807c8203895-8db859448554b2bfb3fd480f4bcaec22-1672759703-1672748903
+#EXTINF:0 CUID="50" tvg-name="Star Sports Select" tvg-logo="http://bciptv.net/assets/images/starselect1.jpg" group-title="Sports",Star Sports Select
+http://15.1.5.22:8082/Star_Sport_Select1HD/index.m3u8?token=cbc65d3c174b7c860240d68f2b31fd4b76ad0eef-4b4cf4188dc739bdff710cbe39b9471d-1672759703-1672748903
+#EXTINF:0 CUID="51" tvg-name="4K Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasYCcMCRY_q26VmgTCFpkfHuLt8J8zSWKP1Et08ceI78RasEVTH1N_Bw&s=10" group-title="Sports",4K Test
+https://jioeventullhls.akamaized.net/hls/live/2097649/imageoverlay_uhd/master.m3u8?hdnts=st=1675437735~exp=1675437855~acl=/hls/live/2097649/imageoverlay_uhd/*~hmac=8e52b59074586d64bcde0aa13a92d965391935ac0ae773f7ec2536871f4aecc6
+#EXTINF:0 CUID="53" tvg-name="Sports TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52n04HJBrcUFSfGZLgERlCyGAqIMa4C1SrA&usqp=CAU" group-title="Sports",Sports Max 
+https://rana-pk.xyz/FAN/BPLy/play.m3u8?id=IEc8kbcjS-isfKWDsjEqRQ
+#EXTINF:0 CUID="107" tvg-name="EPL" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/41ukv2h6cvn8kfyc_1621330302.jpeg" group-title="Foyzur Channels Not Work Always",EPL
+https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
+#EXTINF:0 CUID="108" tvg-name="Nagorik TV HD" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV HD BPL
+http://bdixtv.serverbd247.com:1935/live/live2_720p/chunklist_w1826481135_tkc2VydmVyYmQyNDd0b2tlbmVuZHRpbWU9MTY3NTg0ODI4MCZzZXJ2ZXJiZDI0N3Rva2Vuc3RhcnR0aW1lPTE2NzU4NDEyODAmc2VydmVyYmQyNDd0b2tlbmhhc2g9M19wRjRrQWEyQkpqVWFuazBKOEFvbjlNNFFzbWozTDJBd1ZPSElPUWNRND0=.m3u8?serverbd247tokenendtime=1675848280&serverbd247tokenstarttime=1675841280&serverbd247tokenhash=3_pF4kAa2BJjUank0J8Aon9M4Qsmj3L2AwVOHIOQcQ4=
+#EXTINF:0 CUID="109" tvg-name="Nagorik TV HD BPL" tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangla",Nagorik TV HD BPL
+http://172.16.29.250/hls/nagoriktv.m3u8
