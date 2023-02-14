@@ -97,8 +97,8 @@ http://15.1.5.10:8082/PTV-SPORTS/index.m3u8?token=d172e30bd50aa7e29be3e443406ecf
 http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=b847e22e83b784b029e3178ef8781a7c1e7c160d-1e281e91d202a228affb3c1c9ecd5e02-1672759516-1672748716
 #EXTINF:0 CUID="49" tvg-name="Star Sports Select 2" tvg-logo="http://bciptv.net/assets/images/starselect2.jpg" group-title="Sports",Star Sports Select 2
 http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8?token=ee1a1f977d27303f887334c842e7a807c8203895-8db859448554b2bfb3fd480f4bcaec22-1672759703-1672748903
-#EXTINF:0 CUID="50" tvg-name="Star Sports Select" tvg-logo="http://bciptv.net/assets/images/starselect1.jpg" group-title="Sports",Star Sports Select
-http://15.1.5.22:8082/Star_Sport_Select1HD/index.m3u8?token=cbc65d3c174b7c860240d68f2b31fd4b76ad0eef-4b4cf4188dc739bdff710cbe39b9471d-1672759703-1672748903
+#EXTINF:0 CUID="50" tvg-name="Fancode BN" tvg-logo="http://bciptv.net/assets/images/starselect1.jpg" group-title="Sports",Fancode BN
+https://rana-pk.xyz/FAN/BPLy/play.m3u8?id=k2axb0QWQgGRRX7kgnaeLA
 #EXTINF:0 CUID="51" tvg-name="4K Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasYCcMCRY_q26VmgTCFpkfHuLt8J8zSWKP1Et08ceI78RasEVTH1N_Bw&s=10" group-title="Sports",4K Test
 https://jioeventullhls.akamaized.net/hls/live/2097649/imageoverlay_uhd/master.m3u8?hdnts=st=1675437735~exp=1675437855~acl=/hls/live/2097649/imageoverlay_uhd/*~hmac=8e52b59074586d64bcde0aa13a92d965391935ac0ae773f7ec2536871f4aecc6
 #EXTINF:0 CUID="53" tvg-name="Sports TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52n04HJBrcUFSfGZLgERlCyGAqIMa4C1SrA&usqp=CAU" group-title="Sports",Sports Max 
