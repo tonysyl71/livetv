@@ -50,7 +50,7 @@ http://15.1.5.10:8082/animalplanent/index.m3u8?token=381f960c4a0f4cfc7922118e109
 #EXTINF:0 CUID="42" tvg-name="Nat Geo" tvg-logo="http://bciptv.net/assets/images/nationalgeobd.jpg" group-title="Bangla",Nat Geo
 http://15.1.5.14:8082/ngohd/index.m3u8?token=1bfdf222a731032262047bf2fb460ccfbf0786b5-0514038c8eeb79994fd89a016285c440-1672759140-1672748340
 #EXTINF:0 CUID="52" tvg-name="Sony AATH" tvg-logo="http://bciptv.net/assets/images/sonyaath.jpg" group-title="Bangla",Sony AATH
-http://15.1.5.14:8082/Sonyaath/index.m3u8?token=1f55531b3abdc7af841bf254ab87ee32d2e8c410-cf870e54b5a4bbdfea0266bb26a84473-1672759985-1672749185
+https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:0 CUID="1" tvg-name="Zee Bangla HD" tvg-logo="http://bciptv.net/assets/images/zeebanglahd.jpg" group-title="Indian Channels",Zee Bangla HD
 http://15.1.5.22:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=a844d2f8c0db2c31df0293c9b8f81493969310b5-39246997c5a2b730924109eb1b297d66-1672755330-1672744530
 #EXTINF:0 CUID="2" tvg-name="Star Jalsha" tvg-logo="http://bciptv.net/assets/images/starjalshahd.jpg" group-title="Indian Channels",Star Jalsha
