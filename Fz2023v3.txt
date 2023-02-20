@@ -22,14 +22,14 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:0 CUID="27" tvg-name="Channel i" tvg-logo="http://172.16.29.250/img/channeli.jpg" group-title="Bangla",Channel i
 http://172.16.29.250/hls/channeli.m3u8
-#EXTINF:0 CUID="28" tvg-name="Ekushey TV" tvg-logo="https://en.wikipedia.org/wiki/Ekushey_Television#/media/File:Ekushey_Television_Logo.svg" group-title="Bangla",Ekushey TV
+#EXTINF:0 CUID="28" tvg-name="Ekushey TV" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/beta2/uploads/2013/04/a0411.jpg" group-title="Bangla",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0 CUID="29" tvg-name="Ntv" tvg-logo="http://bciptv.net/assets/images/ntv.jpg" group-title="Bangla",Ntv
 http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8?token=0bdeaf55881b578804dd362f6e2dacc6df584951-51e66ec5a86c076dd426ab1c996b91a3-1672758550-1672747750
 #EXTINF:0 CUID="30" tvg-name="Rtv HD" tvg-logo="http://bciptv.net/assets/images/rtv.jpg" group-title="Bangla",Rtv HD
 http://15.1.5.10:8082/RTV/index.m3u8?token=eb0b4dec10fcbaf72cdb645a5ae73c66b6494055-200f0aaafe711a6156cd0f3c86619bc7-1672758566-1672747766
-#EXTINF:0 CUID="31" tvg-name="SA Tv" tvg-logo="http://bciptv.net/assets/images/satv.jpg" group-title="Bangla",SA Tv
-http://15.1.5.10:8082/SATV/tracks-v1a1/mono.m3u8?token=7de9f845e9b03577a8118b2f56b678082c943263-75b41f2a234a9c4117973ca9a0dd8056-1672758638-1672747838
+#EXTINF:0 CUID="31" tvg-name="SA Tv" tvg-logo="https://i.pinimg.com/280x280_RS/16/6b/c3/166bc399ff8d00c4070ff8d65b36e52e.jpg" group-title="Bangla",SA Tv
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
 #EXTINF:0 CUID="32" tvg-name="Asian TV" tvg-logo="http://bciptv.net/assets/images/asiantv.jpg" group-title="Bangla",Asian TV
 http://15.1.5.18:8082/AsianTV/tracks-v1a1/mono.m3u8?token=6394d813e0da0da48dc54a9ccf24d725e632039a-4b6b093073b9fe05f385481eead72404-1672758678-1672747878
 #EXTINF:0 CUID="33" tvg-name="Bangla Vision" tvg-logo="http://bciptv.net/assets/images/banglavision.jpg" group-title="Bangla",Bangla Vision
@@ -58,8 +58,8 @@ http://15.1.5.22:8082/jalsha/tracks-v1a1/mono.m3u8?token=490228daf98a60d67da31ac
 http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=c93f9182f76b3fcacf6ca33f4d0bc4887ef6a8cb-4fd37303bc0abf9ec5feef0b6a2395c7-1672757159-1672746359
 #EXTINF:0 CUID="5" tvg-name="Colors bangla" tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian Channels",Colors bangla
 http://15.1.5.18:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=e3e652ef3eeedac9e9d432e9d7eb6b70b3b49a81-dc23434c2ff373f34716198a24de1655-1672757270-1672746470
-#EXTINF:0 CUID="6" tvg-name="Sony AATH" group-title="Indian Channels",Sony AATH
-http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=62e8effbf26bce320da5a846f23f32bc7e1f65d9-80c4dd6d28047e8d4b23ec309550f4a2-1671038092-1671027292
+#EXTINF:0 CUID="6" tvg-name="Sony AATH" tvg-logo= "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Indian Channels",Sony AATH
+https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:0 CUID="7" tvg-name="Sun bangla" tvg-logo="http://bciptv.net/assets/images/sunbangla.jpg" group-title="Indian Channels",Sun bangla
 http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8?token=4ff78cc27e4600df9e66d6d6e3924224f4b73fca-48a9554fdf4f357098d133c16faf50ba-1672757325-1672746525
 #EXTINF:0 CUID="9" tvg-name="Colors India" tvg-logo="http://bciptv.net/assets/images/colorshd.jpg" group-title="Indian Channels",Colors India
