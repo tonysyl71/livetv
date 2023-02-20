@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0 CUID="16" tvg-name="BPL Matchtime" tvg-logo="https://appedus.com/wp-content/uploads/2021/04/IPL-Scores-_-Liv.png" group-title="Bangla",BPL matchtime
+#EXTINF:0 CUID="16" tvg-name="Via Play Xtra" tvg-logo="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/channel/23723282-20e6-56f1-896e-782312d89d18.png" group-title="Bangla",Via Play Xtra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:0 CUID="17" tvg-name="Btv" tvg-logo="http://bciptv.net/assets/images/btv.jpg" group-title="Bangla",Btv
-http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8?token=f8de4cb8bcf1f83368ca84eea4525a233fd39214-f169dc1806c3c71598dd5300f297f761-1672758017-1672747217
+#EXTINF:0 CUID="17" tvg-name="Gtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",Gtv
+http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:0 CUID="18" tvg-name="Maasranga" tvg-logo="http://bciptv.net/assets/images/maasranga.jpg" group-title="Bangla",Maasranga
-http://15.1.5.10:8082/maasranga/tracks-v1a1/mono.m3u8?token=8625f2a61e8ac7ca23d94066832df54864d7e21e-c771931e1ed588f8291afc3a3792d20f-1672758034-1672747234
+http://172.16.29.250/hls/masranga.m3u8
 #EXTINF:0 CUID="19" tvg-name="Ekattor TV" tvg-logo="http://bciptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV
 http://15.1.5.10:8082/Ekattor-tv/index.m3u8?token=d2c6c351c7a753aeaed65f28f349d1b8f90cd1d5-a19cb01e454914a2cbddfa9463d15433-1672758064-1672747264
 #EXTINF:0 CUID="20" tvg-name="DBC" tvg-logo="http://bciptv.net/assets/images/dbc.jpg" group-title="Bangla",DBC
@@ -20,11 +20,11 @@ http://15.1.5.22:8082/News24bd/tracks-v1a1/mono.m3u8?token=2f0cf19db5b00e01c835f
 #EXTINF:0 CUID="25" tvg-name="Channel 24" tvg-logo="http://bciptv.net/assets/images/channel24.jpg" group-title="Bangla",Channel 24
 http://15.1.5.10:8082/Channel24/index.m3u8?token=25955fd96ef1fdf9779b92efd58d6e8202cf48be-9a65f6af013f0c2ae528adbe7420a69c-1672758276-1672747476
 #EXTINF:0 CUID="26" tvg-name="ATN" tvg-logo="http://bciptv.net/assets/images/atnbangla.jpg" group-title="Bangla",ATN
-http://15.1.5.14:8082/ATN-Bangla/index.m3u8?token=b242df8dba6a2492681d0d2b7ec730f973f8596e-5cd035977dc00db99afe70733cbaeb95-1672758363-1672747563
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0 CUID="27" tvg-name="Channel i" tvg-logo="http://bciptv.net/assets/images/channeli.jpg" group-title="Bangla",Channel i
-http://15.1.5.22:8082/Channel-i/index.m3u8?token=b7ef50495d159bb77da5dd0a2bfad6cf633f801e-0409641d0ff4b4d1210f2e9a763fe744-1672758354-1672747554
+http://172.16.29.250/hls/channeli.m3u8
 #EXTINF:0 CUID="28" tvg-name="Ekushey TV" tvg-logo="http://bciptv.net/assets/images/ekushey.jpg" group-title="Bangla",Ekushey TV
-http://15.1.5.22:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=5a2285c29c22341f6faec2cae4203a47310fa5ce-78b25dde28ae6ff2bcb3d2a877ed1f43-1672758463-1672747663
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0 CUID="29" tvg-name="Ntv" tvg-logo="http://bciptv.net/assets/images/ntv.jpg" group-title="Bangla",Ntv
 http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8?token=0bdeaf55881b578804dd362f6e2dacc6df584951-51e66ec5a86c076dd426ab1c996b91a3-1672758550-1672747750
 #EXTINF:0 CUID="30" tvg-name="Rtv HD" tvg-logo="http://bciptv.net/assets/images/rtv.jpg" group-title="Bangla",Rtv HD
