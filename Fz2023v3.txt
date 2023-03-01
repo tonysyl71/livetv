@@ -97,6 +97,7 @@ https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:0 CUID="49" tvg-name="Star Sports Select 2" tvg-logo="http://bciptv.net/assets/images/starselect2.jpg" group-title="Sports",Star Sports Select 2
 http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8?token=ee1a1f977d27303f887334c842e7a807c8203895-8db859448554b2bfb3fd480f4bcaec22-1672759703-1672748903
 #EXTINF:0 CUID="50" tvg-name="Toffee BDvENG" tvg-logo="https://toffeelive.com/policies/assets/images/sticky_Logo_2.png" group-title="Sports", Toffee BDvENG
+https://ranapk.fun/BAN/play.m3u8
 #EXTINF:0 CUID="51" tvg-name="4K Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasYCcMCRY_q26VmgTCFpkfHuLt8J8zSWKP1Et08ceI78RasEVTH1N_Bw&s=10" group-title="Sports",4K Test
 https://jioeventullhls.akamaized.net/hls/live/2097649/imageoverlay_uhd/master.m3u8?hdnts=st=1675437735~exp=1675437855~acl=/hls/live/2097649/imageoverlay_uhd/*~hmac=8e52b59074586d64bcde0aa13a92d965391935ac0ae773f7ec2536871f4aecc6
 #EXTINF:0 CUID="53" tvg-name="Sky Cricket HD" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports",Sky Cricket HD 
