@@ -88,7 +88,7 @@ http://15.1.5.10:8082/willow-hd/tracks-v1a1/mono.m3u8?token=de2e710edeaae23f3a7d
 http://172.16.29.250/hls/sonysix.m3u8
 #EXTINF:0 CUID="45" tvg-name="Sony Ten 1 HD" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony Ten 1 HD
 https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:0 CUID="46" tvg-name="Soy Ten2 HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" group-title="Sports",Soy Ten2 HD
+#EXTINF:0 CUID="46" tvg-name="Sony Ten2 HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" group-title="Sports",Soy Ten2 HD
 https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:0 CUID="47" tvg-name="Sony Ten 4" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" group-title="Sports",Sony ten 4
 https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
@@ -100,8 +100,8 @@ http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8?token=ee1a1f977d27303f887334
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/0aRnuobxyl3WsYyw0sVEVjJ4exXrCLFlYP9qtx4MR3h4HNjgSZ-tlDe4qKrKGQwnVVtvTzih6gTKbAXZywdf5g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:0 CUID="51" tvg-name="4K Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasYCcMCRY_q26VmgTCFpkfHuLt8J8zSWKP1Et08ceI78RasEVTH1N_Bw&s=10" group-title="Sports",4K Test
 https://jioeventullhls.akamaized.net/hls/live/2097649/imageoverlay_uhd/master.m3u8?hdnts=st=1675437735~exp=1675437855~acl=/hls/live/2097649/imageoverlay_uhd/*~hmac=8e52b59074586d64bcde0aa13a92d965391935ac0ae773f7ec2536871f4aecc6
-#EXTINF:0 CUID="53" tvg-name="Sony Ten 1" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony ten 1 
-https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:0 CUID="53" tvg-name="Sky Cricket HD" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports",Sky Cricket HD 
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/hyP9gRoh3a2JYvEGugKneL8db_XaFAGIl369x78pRxtNuwzyJhmxhQlWuPhUQYVII6HruBHVQr3Dz5a3IJ6xgQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:0 CUID="107" tvg-name="EPL" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/41ukv2h6cvn8kfyc_1621330302.jpeg" group-title="Foyzur Channels Not Work Always",EPL
 https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
 #EXTINF:0 CUID="108" tvg-name="Nagorik TV HD BPL" tvg-logo="http://172.16.29.250/img/nagorik.jpg" group-title="Bangla",Nagorik TV HD BPL
