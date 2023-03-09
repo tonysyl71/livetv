@@ -82,8 +82,8 @@ http://172.16.29.250/hls/zeetv.m3u8
 http://15.1.5.22:8082/zee-bangla-cinema/tracks-v5a1/mono.m3u8?token=655cecd7a722c0b1ccbf744bbf755e0b649e3bef-f2704bb9bdcb776a01b4bbeb06441de2-1672757102-1672746302
 #EXTINF:0 CUID="8" tvg-name="Eurosports FHD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Sports",Eurosports FHD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
-#EXTINF:0 CUID="43" tvg-name="Willow HD" tvg-logo="http://bciptv.net/assets/images/willowhd.jpg" group-title="Sports",Willow HD
-http://15.1.5.10:8082/willow-hd/tracks-v1a1/mono.m3u8?token=de2e710edeaae23f3a7d96bb5db40b6120dd514b-248670adf4f747ef8ef64345f74bd0e0-1672759293-1672748493
+#EXTINF:0 CUID="43" tvg-name="Fancode BDvENG HD" tvg-logo="https://www.fancode.com/b9a4bc578a5a1e8c7703327bc58b108f.svg" group-title="Sports",Fancode BDvENG HD
+http://fifabangladesh.tk/BD/FANCODE/play.m3u8?id=1080p
 #EXTINF:0 CUID="44" tvg-name="Sony Six HD" tvg-logo="http://bciptv.net/assets/images/sonysixhd.jpg" group-title="Sports",Sony Six HD
 http://172.16.29.250/hls/sonysix.m3u8
 #EXTINF:0 CUID="45" tvg-name="Sony Ten 1 HD" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony Ten 1 HD
