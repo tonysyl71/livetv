@@ -2,7 +2,7 @@
 #EXTINF:0 CUID="16" tvg-name="Via Play Xtra" tvg-logo="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/channel/23723282-20e6-56f1-896e-782312d89d18.png" group-title="Bangla",Via Play Xtra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:0 CUID="17" tvg-name="Gtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",Gtv
-http://103.141.2.37:25461/web/web/592
+http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:0 CUID="18" tvg-name="Maasranga" tvg-logo="http://172.16.29.250/img/maasranga.jpg" group-title="Bangla",Maasranga
 http://172.16.29.250/hls/masranga.m3u8
 #EXTINF:0 CUID="19" tvg-name="Ekattor TV" tvg-logo="http://bciptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV
