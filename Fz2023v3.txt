@@ -47,7 +47,7 @@ http://15.1.5.22:8082/MyTV/index.m3u8?token=383ab45d8df8c87419bc9042fd6c66ed82c6
 #EXTINF:0 CUID="41" tvg-name="Anmals Planet" tvg-logo="http://bciptv.net/assets/images/animalplanetnew.jpg" group-title="Bangla",Anmals Planet
 http://15.1.5.10:8082/animalplanent/index.m3u8?token=381f960c4a0f4cfc7922118e1098d8dbaf284a25-a98666721562719e334a5c910335a90e-1672759055-1672748255
 #EXTINF:0 CUID="42" tvg-name="Nat Geo" tvg-logo="http://bciptv.net/assets/images/nationalgeobd.jpg" group-title="Bangla",Nat Geo
-http://15.1.5.14:8082/ngohd/index.m3u8?token=1bfdf222a731032262047bf2fb460ccfbf0786b5-0514038c8eeb79994fd89a016285c440-1672759140-1672748340
+http://172.16.29.250/hls/ngohd.m3u8
 #EXTINF:0 CUID="52" tvg-name="Sony Aath" tvg-logo="http://bciptv.net/assets/images/sonyaath.jpg" group-title="Bangla",Sony AATH
 https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:0 CUID="1" tvg-name="Zee Bangla HD" tvg-logo="http://bciptv.net/assets/images/zeebanglahd.jpg" group-title="Indian Channels",Zee Bangla HD
