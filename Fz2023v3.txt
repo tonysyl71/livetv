@@ -10,7 +10,7 @@ http://15.1.5.10:8082/Ekattor-tv/index.m3u8?token=d2c6c351c7a753aeaed65f28f349d1
 #EXTINF:0 CUID="20" tvg-name="DBC" tvg-logo="http://bciptv.net/assets/images/dbc.jpg" group-title="Bangla",DBC
 http://15.1.5.22:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=19f9f98087692e35aa39bdc0a2a47e6b52a35780-89492084c0a5b0392cb7686641620dc5-1672758098-1672747298
 #EXTINF:0 CUID="21" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-
+http://172.16.29.250/hls/indepen.m3u8
 #EXTINF:0 CUID="22" tvg-name="Somoy TV" tvg-logo="https://www.somoynews.tv/icon.png" group-title="Bangla",Somoy TV
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:0 CUID="23" tvg-name="Jamuna TV HD" tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg" group-title="Bangla",Jamuna TV HD
@@ -36,10 +36,10 @@ http://15.1.5.18:8082/AsianTV/tracks-v1a1/mono.m3u8?token=6394d813e0da0da48dc54a
 http://15.1.5.14:8082/BanglaVision/index.m3u8?token=88670b773d8cda5a80fa48a31ebafbe22ad0e90f-22ba0ef5d9179c3c3949b90f21a62b46-1672758783-1672747983
 #EXTINF:0 CUID="34" tvg-name="Baishaki TV" tvg-logo="http://bciptv.net/assets/images/boishakhi.jpg" group-title="Bangla",Baishaki TV
 http://15.1.5.18:8082/Boishakhi/index.m3u8?token=1dfed6bfefb6f943d1f4565cba57ab4ec95d8c64-ca9dbc619340ebcdbbb3acc798fe4427-1672758789-1672747989
-#EXTINF:0 CUID="35" tvg-name="Deepto TV" tvg-logo="http://bciptv.net/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV
-http://15.1.5.22:8082/depto-bangla/index.m3u8?token=e6b18fabc6a584570daa62113d3c09ae86e97583-bdf0c8330fb06924fce72aaa6dbfa994-1672758824-1672748024
+#EXTINF:0 CUID="35" tvg-name="Duranta TV" tvg-logo="http://172.16.29.250/img/duranta.jpg" group-title="Bangla",Duranta TV
+http://172.16.29.250/hls/duranta.m3u8
 #EXTINF:0 CUID="36" tvg-name="GaanBangla" tvg-logo="http://bciptv.net/assets/images/gaanbangla.jpg" group-title="Bangla",GaanBangla
-http://15.1.5.14:8082/GaanBangla/index.m3u8?token=58b4d2c387a64218c6cd6aede396b6de1d94f7fe-4a337e237b33fbfa374cc014b805b9e3-1672758895-1672748095
+http://172.16.29.250/hls/gb.m3u8
 #EXTINF:0 CUID="37" tvg-name="Mohona TV" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Bangla",Mohona TV
 http://15.1.5.10:8082/MohonaTV/index.m3u8?token=743cf168d2e68ba7360773f3c23c77d05f417fc8-2d6b4a61a89b6bfa634ddd59ea37c81d-1672758900-1672748100
 #EXTINF:0 CUID="39" tvg-name="My TV" tvg-logo="http://bciptv.net/assets/images/mytv.jpg" group-title="Bangla",My TV
@@ -78,8 +78,8 @@ http://15.1.5.18:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=8740a4e8472d2f8688
 http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8?token=98efd084861de9e659538b88e94ced2912ed95b1-58fdb1904cde25fc6049811a0e044077-1672757822-1672747022
 #EXTINF:0 CUID="110" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Indian Channels",Zee TV
 http://172.16.29.250/hls/zeetv.m3u8
-#EXTINF:0 CUID="3" tvg-name="Zee bangla Cinema" tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Sports",Zee bangla Cinema
-http://15.1.5.22:8082/zee-bangla-cinema/tracks-v5a1/mono.m3u8?token=655cecd7a722c0b1ccbf744bbf755e0b649e3bef-f2704bb9bdcb776a01b4bbeb06441de2-1672757102-1672746302
+#EXTINF:0 CUID="3" tvg-name="Zee bangla Cinema" tvg-logo="http://172.16.29.250/img/Zee_Bangla_Cinema.jpg" group-title="Sports",Zee bangla Cinema
+http://172.16.29.250/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 CUID="8" tvg-name="Eurosports FHD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Sports",Eurosports FHD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 #EXTINF:0 CUID="43" tvg-name="Fancode BDvENG HD" tvg-logo="https://www.fancode.com/b9a4bc578a5a1e8c7703327bc58b108f.svg" group-title="Sports",Fancode BDvENG HD IN
