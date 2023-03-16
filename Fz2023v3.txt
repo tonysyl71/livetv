@@ -114,3 +114,5 @@ http://172.16.29.250/hls/nick.m3u8
 https://pubads.g.doubleclick.net/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:0 CUID="112" tvg-name="Fancode BDvENG HD" tvg-logo="https://www.fancode.com/b9a4bc578a5a1e8c7703327bc58b108f.svg" group-title="Sports",Fancode BDvENG HD
 https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=720p
+#EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
+http://172.16.29.250/hls/discovery.m3u8
