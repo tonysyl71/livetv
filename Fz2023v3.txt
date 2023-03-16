@@ -64,14 +64,14 @@ https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8?token=4ff78cc27e4600df9e66d6d6e3924224f4b73fca-48a9554fdf4f357098d133c16faf50ba-1672757325-1672746525
 #EXTINF:0 CUID="9" tvg-name="Colors India" tvg-logo="http://bciptv.net/assets/images/colorshd.jpg" group-title="Indian Channels",Colors India
 http://15.1.5.22:8082/colorsindia/index.m3u8?token=7dc873c5d83096de3de76011e2a701a9ab1a616f-b95b116be68da1a4bcb3b11d806446c0-1672757500-1672746700
-#EXTINF:0 CUID="10" tvg-name="Star Gold" tvg-logo="http://bciptv.net/assets/images/stargold.jpg" group-title="Indian Channels",Star Gold
-http://15.1.5.22:8082/star-gold/index.m3u8?token=cc0b2428fb6d718b2a9b1d5ac25ff6317c6d29ad-0b01006154c34d0a69a4f4959142a7be-1672757550-1672746750
+#EXTINF:0 CUID="10" tvg-name="Star Gold" tvg-logo="http://172.16.29.250/img/stargold.jpg" group-title="Indian Channels",Star Gold
+http://172.16.29.250/hls/stargold.m3u8
 #EXTINF:0 CUID="11" tvg-name="Sony Max" tvg-logo="http://bciptv.net/assets/images/sonymaxhd.jpg" group-title="Indian Channels",Sony Max
 http://15.1.5.22:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=f82923f962ae08cf1dedd5d6224f30d2258b673e-5595e64af73941124f4802eacccce1a4-1672757606-1672746806
 #EXTINF:0 CUID="12" tvg-name="Sony Sab" tvg-logo="http://bciptv.net/assets/images/sonysabhd.jpg" group-title="Indian Channels",Sony Sab
 http://15.1.5.10:8082/SONY-SUB/tracks-v1a1/mono.m3u8?token=4e4c4e6292dcd445284f6e954661582089c836a1-df2c998b7c964b04ab7af3e5e1cd38a9-1672757647-1672746847
 #EXTINF:0 CUID="13" tvg-name="Star Plus" tvg-logo="http://bciptv.net/assets/images/starplushd.jpg" group-title="Indian Channels",Star Plus
-http://15.1.5.18:8082/star-plus/index.m3u8?token=976c0fafa863f8fefe1a9174fe6a98c976414cec-ca04dcaf383894c956914db27381f9d4-1672757689-1672746889
+http://172.16.29.250/hls/starplus.m3u8
 #EXTINF:0 CUID="14" tvg-name="Zee Cinema" tvg-logo="http://bciptv.net/assets/images/zeecinemahd.jpg" group-title="Indian Channels",Zee Cinema
 http://15.1.5.18:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=8740a4e8472d2f86889fb5a06efd85517d9f79c6-c0c9498b80b9af80acac79ff0c3f6481-1672757732-1672746932
 #EXTINF:0 CUID="15" tvg-name="9XM" tvg-logo="http://bciptv.net/assets/images/9xm.jpg" group-title="Indian Channels",9XM
