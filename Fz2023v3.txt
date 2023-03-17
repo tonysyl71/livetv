@@ -116,3 +116,5 @@ https://pubads.g.doubleclick.net/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=720p
 #EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
 http://172.16.29.250/hls/discovery.m3u8
+#EXTINF:0 CUID="114" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports",Star Sports 1
+http://172.16.29.250/hls/stersports1hd.m3u8
