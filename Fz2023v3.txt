@@ -82,8 +82,8 @@ http://172.16.29.250/hls/zeetv.m3u8
 http://172.16.29.250/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 CUID="8" tvg-name="Eurosports FHD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Sports",Eurosports FHD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
-#EXTINF:0 CUID="43" tvg-name="Fancode BDvsIRE HD" tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo.-830x379.png" group-title="Sports",Fancode BDvsIRE HD IN
-https://dai.fancode.com/primary/66279_english_hls_3392ta-di/index.m3u8
+#EXTINF:0 CUID="43" tvg-name="Fancode Legend League HD" tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo.-830x379.png" group-title="Sports",Fancode Legend League HD IN
+https://dai.fancode.com/primary/67292_english_hls_3099adfreeta-no/index.m3u8
 #EXTINF:0 CUID="44" tvg-name="Sony Six HD" tvg-logo="http://bciptv.net/assets/images/sonysixhd.jpg" group-title="Sports",Sony Six HD
 http://172.16.29.250/hls/sonysix.m3u8
 #EXTINF:0 CUID="45" tvg-name="Sony Ten 1 HD" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony Ten 1 HD
