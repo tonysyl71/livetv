@@ -113,7 +113,7 @@ http://172.16.29.250/hls/nick.m3u8
 #EXTINF:0 CUID="111" tvg-name="PSL All Match" tvg-logo="https://seeklogo.com/images/P/pakistan-super-league-psl-logo-422FBD953E-seeklogo.com.png" group-title="Sports",PSL All Match
 https://pubads.g.doubleclick.net/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:0 CUID="112" tvg-name="Fancode BDvsIRE HD" tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo.-830x379.png" group-title="Sports",Fancode BDvsIRE HD
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/kyKugrmMRwa0Z3HbQtY7BKRGZq3UdcW3X_Z4E5NMBxYbzfjGmnOE8ldeF_jDN7TjweaGeh7Ghd_C1mF-MlzI1Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/0qqpTbgpgEGcC5oWBZVIQ81NLUxYgqzGc9gRCoqBMTanKV5te__H-7eWLukBHdEGqSK9ftdzJHNURg6O3R_WAA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
 http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:0 CUID="114" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports",Star Sports 1
