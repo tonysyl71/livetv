@@ -96,8 +96,8 @@ https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:0 CUID="49" tvg-name="Star Sports Select 1" tvg-logo="http://172.16.29.250/img/Star_Sports_Select_1_HD.jpg" group-title="Sports",Star Sports Select 1
 http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:0 CUID="50" tvg-name="TSports" tvg-logo="https://www.daily-sun.com/assets/news_images/2022/08/18/thumbnails/T-Sports_logo.jpg" group-title="Sports", TSports Auto
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/KN2m-5n3fkq5pYbRyPiAWrbbuwH3FUxr7nHWW5rmflF20HhBMTiZdg13bLK1MRiUNDLgCbPXG6BG9mgoDtc3ZA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:0 CUID="50" tvg-name="LLC" tvg-logo="https://www.daily-sun.com/assets/news_images/2022/08/18/thumbnails/T-Sports_logo.jpg" group-title="Sports", LLC Auto
+https://dai.fancode.com/primary/67293_english_hls_3569adfreeta-no/index.m3u8
 #EXTINF:0 CUID="51" tvg-name="4K Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasYCcMCRY_q26VmgTCFpkfHuLt8J8zSWKP1Et08ceI78RasEVTH1N_Bw&s=10" group-title="Sports",4K Test
 https://jioeventullhls.akamaized.net/hls/live/2097649/imageoverlay_uhd/master.m3u8?hdnts=st=1675437735~exp=1675437855~acl=/hls/live/2097649/imageoverlay_uhd/*~hmac=8e52b59074586d64bcde0aa13a92d965391935ac0ae773f7ec2536871f4aecc6
 #EXTINF:0 CUID="53" tvg-name="Cartoon Network HN" tvg-logo="http://172.16.29.250/img/cn.png" group-title="Kids",Cartoon Network HN 
