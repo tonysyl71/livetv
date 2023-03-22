@@ -5,14 +5,14 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:0 CUID="18" tvg-name="Maasranga" tvg-logo="http://172.16.29.250/img/maasranga.jpg" group-title="Bangla",Maasranga
 http://172.16.29.250/hls/masranga.m3u8
-#EXTINF:0 CUID="19" tvg-name="Ekattor TV" tvg-logo="http://bciptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV
-http://15.1.5.10:8082/Ekattor-tv/index.m3u8?token=d2c6c351c7a753aeaed65f28f349d1b8f90cd1d5-a19cb01e454914a2cbddfa9463d15433-1672758064-1672747264
-#EXTINF:0 CUID="20" tvg-name="DBC" tvg-logo="http://bciptv.net/assets/images/dbc.jpg" group-title="Bangla",DBC
-http://15.1.5.22:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=19f9f98087692e35aa39bdc0a2a47e6b52a35780-89492084c0a5b0392cb7686641620dc5-1672758098-1672747298
+#EXTINF:0 CUID="19" tvg-name="Ekattor TV" tvg-logo="https://ekattor.tv/image/catalog/Logo/ekattor-logo-new.png" group-title="Bangla",Ekattor TV
+http://172.16.29.250/hls/nexus.m3u8
+#EXTINF:0 CUID="20" tvg-name="Travel XP" tvg-logo="http://172.16.29.250/img/travelxphd.jpg" group-title="Bangla",Travel XP
+http://172.16.29.250/hls/travelxp.m3u8
 #EXTINF:0 CUID="21" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent TV
 http://172.16.29.250/hls/indepen.m3u8
 #EXTINF:0 CUID="22" tvg-name="Somoy TV" tvg-logo="https://www.somoynews.tv/icon.png" group-title="Bangla",Somoy TV
-https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
+http://172.16.29.250/hls/somoy.m3u8
 #EXTINF:0 CUID="23" tvg-name="Jamuna TV HD" tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg" group-title="Bangla",Jamuna TV HD
 http://172.16.29.250/hls/jamuna.m3u8
 #EXTINF:0 CUID="24" tvg-name="News 24" tvg-logo="http://bciptv.net/assets/images/news24.jpg" group-title="Bangla",News 24
@@ -24,16 +24,16 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://172.16.29.250/hls/channeli.m3u8
 #EXTINF:0 CUID="28" tvg-name="Ekushey TV" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/beta2/uploads/2013/04/a0411.jpg" group-title="Bangla",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:0 CUID="29" tvg-name="Ntv" tvg-logo="http://bciptv.net/assets/images/ntv.jpg" group-title="Bangla",Ntv
-http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8?token=0bdeaf55881b578804dd362f6e2dacc6df584951-51e66ec5a86c076dd426ab1c996b91a3-1672758550-1672747750
-#EXTINF:0 CUID="30" tvg-name="Rtv HD" tvg-logo="http://bciptv.net/assets/images/rtv.jpg" group-title="Bangla",Rtv HD
-http://15.1.5.10:8082/RTV/index.m3u8?token=eb0b4dec10fcbaf72cdb645a5ae73c66b6494055-200f0aaafe711a6156cd0f3c86619bc7-1672758566-1672747766
+#EXTINF:0 CUID="29" tvg-name="Enter10" tvg-logo="http://172.16.29.250/img/enterr10.jpeg" group-title="Bangla",Enter10
+http://172.16.29.250/hls/enterr10.m3u8
+#EXTINF:0 CUID="30" tvg-name="Khushboo bangla" tvg-logo="http://172.16.29.250/img/khushboo.jpg" group-title="Bangla",Khushboo bangla
+http://172.16.29.250/hls/khushboo.m3u8
 #EXTINF:0 CUID="31" tvg-name="SA Tv" tvg-logo="https://i.pinimg.com/280x280_RS/16/6b/c3/166bc399ff8d00c4070ff8d65b36e52e.jpg" group-title="Bangla",SA Tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
-#EXTINF:0 CUID="32" tvg-name="Asian TV" tvg-logo="http://bciptv.net/assets/images/asiantv.jpg" group-title="Bangla",Asian TV
-http://15.1.5.18:8082/AsianTV/tracks-v1a1/mono.m3u8?token=6394d813e0da0da48dc54a9ccf24d725e632039a-4b6b093073b9fe05f385481eead72404-1672758678-1672747878
-#EXTINF:0 CUID="33" tvg-name="Bangla Vision" tvg-logo="http://bciptv.net/assets/images/banglavision.jpg" group-title="Bangla",Bangla Vision
-http://15.1.5.14:8082/BanglaVision/index.m3u8?token=88670b773d8cda5a80fa48a31ebafbe22ad0e90f-22ba0ef5d9179c3c3949b90f21a62b46-1672758783-1672747983
+#EXTINF:0 CUID="32" tvg-name="Akash 8" tvg-logo="http://172.16.29.250/img/akash8.jfif" group-title="Bangla",Akash 8
+http://172.16.29.250/hls/akash.m3u8
+#EXTINF:0 CUID="33" tvg-name="Bangla Vision" tvg-logo="http://172.16.29.250/img/banglavision.jpg" group-title="Bangla",Bangla Vision
+http://172.16.29.250/hls/banglavision.m3u8
 #EXTINF:0 CUID="34" tvg-name="Baishaki TV" tvg-logo="http://bciptv.net/assets/images/boishakhi.jpg" group-title="Bangla",Baishaki TV
 http://15.1.5.18:8082/Boishakhi/index.m3u8?token=1dfed6bfefb6f943d1f4565cba57ab4ec95d8c64-ca9dbc619340ebcdbbb3acc798fe4427-1672758789-1672747989
 #EXTINF:0 CUID="35" tvg-name="Duranta TV" tvg-logo="http://172.16.29.250/img/duranta.jpg" group-title="Bangla",Duranta TV
