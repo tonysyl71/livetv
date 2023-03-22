@@ -127,7 +127,17 @@ http://172.16.29.250/hls/sonypixhd.m3u8
 http://172.16.29.250/hls/movies-now.m3u8
 #EXTINF:0 CUID="113" tvg-name="Star Movies HD" tvg-logo="http://172.16.29.250/img/starmovies.jpg" group-title="English", Star Movies HD
 http://172.16.29.250/hls/starmovies.m3u8
-#EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
-http://172.16.29.250/hls/discovery.m3u8
-
-
+#EXTINF:0 CUID="113" tvg-name="BBC Earth HD" tvg-logo="http://172.16.29.250/img/bbcearth.jpg" group-title="English", BBC Earth HD
+http://172.16.29.250/hls/bbcearth.m3u8
+#EXTINF:0 CUID="113" tvg-name="MN PLus HD" tvg-logo="http://172.16.29.250/img/mn+.jpg" group-title="English", MN Plus HD
+http://172.16.29.250/hls/mn+.m3u8
+#EXTINF:0 CUID="113" tvg-name="Animal Planet HD" tvg-logo="http://172.16.29.250/img/animalplanent.jpg" group-title="English", Animal Planet HD
+http://172.16.29.250/hls/animalplanent.m3u8
+#EXTINF:0 CUID="113" tvg-name="TLC HD" tvg-logo="http://172.16.29.250/hls/tlc.m3u8" group-title="English", TLC HD
+http://172.16.29.250/hls/tlc.m3u8
+#EXTINF:0 CUID="113" tvg-name="Nat Geo Wild HD" tvg-logo="http://172.16.29.250/img/wild.png" group-title="English", Nat Geo Wild HD
+http://172.16.29.250/hls/wild.m3u8
+#EXTINF:0 CUID="113" tvg-name="MNX HD" tvg-logo="http://172.16.29.250/img/mnx-hd.jpg" group-title="English", MNX HD
+http://172.16.29.250/hls/mnx-hd.m3u8
+#EXTINF:0 CUID="113" tvg-name="Lotus" tvg-logo="http://172.16.29.250/img/lotus.png" group-title="English", Lotus
+http://172.16.29.250/hls/lotus.m3u8
