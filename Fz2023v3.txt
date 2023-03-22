@@ -68,7 +68,7 @@ http://172.16.29.250/hls/colore-tv-hd.m3u8
 #EXTINF:0 CUID="10" tvg-name="Star Gold" tvg-logo="http://172.16.29.250/img/stargold.jpg" group-title="Indian Channels",Star Gold
 http://172.16.29.250/hls/stargold.m3u8
 #EXTINF:0 CUID="11" tvg-name="Sony TV" tvg-logo="http://172.16.29.250/hls/sonyen.m3u8" group-title="Indian Channels",Sony TV
-http://172.16.29.250/img/sonyen.png
+http://172.16.29.250/hls/sonyen.m3u8
 #EXTINF:0 CUID="12" tvg-name="Star Gold Thrills" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Thrills-Logo.png" group-title="Indian Channels",Star Gold Thrills
 http://172.16.29.250/hls/utvaction.m3u8
 #EXTINF:0 CUID="13" tvg-name="Star Plus" tvg-logo="http://172.16.29.250/img/starplus.jpg" group-title="Indian Channels",Star Plus
