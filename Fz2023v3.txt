@@ -141,5 +141,5 @@ http://172.16.29.250/hls/wild.m3u8
 http://172.16.29.250/hls/mnx-hd.m3u8
 #EXTINF:0 CUID="125" tvg-name="Lotus" tvg-logo="http://172.16.29.250/img/lotus.png" group-title="English", Lotus
 http://172.16.29.250/hls/lotus.m3u8
-#EXTINF:0 CUID="125" tvg-name="Argentina" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/arg.png&h=200&w=200" group-title="English", Argentina
+#EXTINF:0 CUID="126" tvg-name="Argentina" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/arg.png&h=200&w=200" group-title="English", Argentina
 https://live-ak.vimeocdn.com/exp=1679614934~acl=%2Fee77b5c5-6e29-4346-9fed-4a4d0328918c%2F%2A~hmac=b7b677ebff67f6b40820737f05a73962897aa7329009044d2c76524143c473b4/ee77b5c5-6e29-4346-9fed-4a4d0328918c/chunklist_b3256000.m3u8?max_segments=10&min_seconds=30
