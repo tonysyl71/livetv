@@ -43,8 +43,8 @@ http://172.16.29.250/hls/duranta.m3u8
 http://172.16.29.250/hls/gb.m3u8
 #EXTINF:0 CUID="37" tvg-name="LLC" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Bangla",Mohona TV
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/JdWKcFzLcULlKgwaBe0EdpYn2DBtjTPDmka4_sD_FOGUVTJsVjrHy6qOj4_-Um8hRE7CmD9_3spgtBZM_ypJOw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:0 CUID="39" tvg-name="My TV" tvg-logo="http://bciptv.net/assets/images/mytv.jpg" group-title="Bangla",My TV
-http://15.1.5.22:8082/MyTV/index.m3u8?token=383ab45d8df8c87419bc9042fd6c66ed82c67b3e-2dc85f6e7c6dbcbc9ea6b6a8be627aea-1672758936-1672748136
+#EXTINF:0 CUID="39" tvg-name="T Sports" tvg-logo="http://172.16.29.250/img/tsports.jpg" group-title="Bangla",T Sports
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/inHRtoQQQVc4jx9LB_VeMEocyRc9mHjhz-c-MoiqekbK0oaR43eduDGxkpykUx1loc9Xqf3XYRpQfCFI0nQ23g/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:0 CUID="41" tvg-name="Anmals Planet" tvg-logo="http://bciptv.net/assets/images/animalplanetnew.jpg" group-title="Bangla",Anmals Planet
 http://15.1.5.10:8082/animalplanent/index.m3u8?token=381f960c4a0f4cfc7922118e1098d8dbaf284a25-a98666721562719e334a5c910335a90e-1672759055-1672748255
 #EXTINF:0 CUID="42" tvg-name="Nat Geo" tvg-logo="http://bciptv.net/assets/images/nationalgeobd.jpg" group-title="Bangla",Nat Geo
