@@ -142,6 +142,6 @@ http://172.16.29.250/hls/mnx-hd.m3u8
 #EXTINF:0 CUID="125" tvg-name="Lotus" tvg-logo="http://172.16.29.250/img/lotus.png" group-title="English", Lotus
 http://172.16.29.250/hls/lotus.m3u8
 #EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Tata IPL
-https://sports-south-test.jiocinema.com/hls/live/2099764/hd_akamai_ctv_avc_insider_ipl01/master.m3u8
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/Ug35Mpb91h4gRxSRMMIRqHqKh8uHQJZeUXX84oh9RjsZMTm5-dDcriCE7lc62ne1EIqJLtxQZ1_GDEkWVtKV_Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Tata IPL 4K IN VPN
-https://jiolivestreaming.akamaized.net/bpk-tv/M1_IPL23_Eng_UHD_IDC_BTS/Fallback//index.m3u8?hdnts=st=1680228607~exp=1680315007~acl=/*~hmac=7e605c3bbe59053d5958584b7b90fb1d95c8a677681632b72cab1effd2128149
+https://join-us-on-telegram-streamkingliveo.pages.dev/ENGLISH-4K-M2.m3u8|Cookie=hdntl=exp=1680366567~acl=%2f*~id=bf611ba9-f700-41ba-8cf2-ce170b05f4aa~data=hdntl~hmac=3d269f5a73ee708b60afb2ce10583157f0a66b911ff2cac523f32a49a5d91ad7d5958584b7b90fb1d95c8a677681632b72cab1effd2128149
