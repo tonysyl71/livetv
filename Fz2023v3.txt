@@ -142,7 +142,7 @@ http://172.16.29.250/hls/mnx-hd.m3u8
 #EXTINF:0 CUID="125" tvg-name="Lotus" tvg-logo="http://172.16.29.250/img/lotus.png" group-title="English", Lotus
 http://172.16.29.250/hls/lotus.m3u8
 #EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Tata IPL
-https://vkvsd30.mycdn.me/hls/4670729554446.m3u8/sig/fxsuEz1koe4/expires/1685200134845/srcIp/103.211.134.187/urls/185.226.52.45/clientType/13/srcAg/CHROME_ANDROID/mid/5525730634510/video.m3u8?p
+https://vkvsd30.mycdn.me/hls/4670750198286.m3u8/sig/Az9JaCm8jpE/srcIp/152.58.180.162/urls/185.226.52.68/expires/1685740318560/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/5525750819598/id/4670750198286/video.m3u8?p
 #EXTINF:0 CUID="127" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Tata IPL 4K IN VPN
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF:0 CUID="128" tvg-name="PakvsNZ" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="English", Sony Liv
