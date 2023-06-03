@@ -114,7 +114,7 @@ http://172.16.29.250/hls/nick.m3u8
 #EXTINF:0 CUID="111" tvg-name="Star Sports 2" tvg-logo="http://172.16.29.250/img/ster-sport-2hd.png" group-title="Sports",Star Sports 2
 http://172.16.29.250/hls/starsports2.m3u8
 #EXTINF:0 CUID="112" tvg-name="Fancode BDvsIRE HD" tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo.-830x379.png" group-title="Sports",PSG Match
-https://dai.fancode.com/primary/72453_english_hls_3554ta-di/index.m3u8
+https://ranapk.xyz/VOOT/play.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
 http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:0 CUID="114" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports",Star Sports 1
