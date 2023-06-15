@@ -141,7 +141,7 @@ http://172.16.29.250/hls/wild.m3u8
 http://172.16.29.250/hls/mnx-hd.m3u8
 #EXTINF:0 CUID="125" tvg-name="Lotus" tvg-logo="http://172.16.29.250/img/lotus.png" group-title="English", Lotus
 http://172.16.29.250/hls/lotus.m3u8
-#EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Tata IPL2
-https://join-us-on-telegram-streamkingliveo.pages.dev/ENG-CSK-VS-GT.m3u8|Cookie=hdntl=exp=1685450344~acl=%2f*~id=cb1ab68a-3133-4a0a-9e0a-cb70a5c54ebd~data=hdntl~hmac=477c2260ba42bc85f51749c55e8783ee9d7f98c4c6d4996c9c9756ae12f44cec
+#EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Argentina English
+https://ranapk.fun/MAC2/ast3/play.m3u8
 #EXTINF:0 CUID="127" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Argentina
 https://live5-slivertv.akamaized.net/hls/live/2015862/hls_streamer_us_central_0007/playlist.m3u8
