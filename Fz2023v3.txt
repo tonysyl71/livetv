@@ -113,8 +113,8 @@ http://172.16.29.250/hls/pogo.m3u8
 http://172.16.29.250/hls/nick.m3u8
 #EXTINF:0 CUID="111" tvg-name="Star Sports 2" tvg-logo="http://172.16.29.250/img/ster-sport-2hd.png" group-title="Sports",Star Sports 2
 http://172.16.29.250/hls/starsports2.m3u8
-#EXTINF:0 CUID="112" tvg-name="Fancode BDvsAFG HD" tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo.-830x379.png" group-title="Sports",BD AFG
-http://ranapk.xyz/FANCODE/play.m3u8?id=u_XxWQxlRpW6JJTCZApwwA
+#EXTINF:0 CUID="112" tvg-name="Fancode BDvsAFG HD" tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo.-830x379.png" group-title="Sports",BD AFG Toffee
+https://mprod-cdn.toffeelive.com/banvsafg/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1688826180:KeyName=prod_linear:Signature=nREz7VrCFLQQqsJSGAmK2YKp-udVf2gbEF-1O6HJYwb48odTSsase4g5SD2IaG2Fe9t-EIZUnv18rdMucO8-Ag
 #EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
 http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:0 CUID="114" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports",Star Sports 1
