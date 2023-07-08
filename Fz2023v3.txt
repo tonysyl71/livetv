@@ -41,8 +41,8 @@ http://172.16.29.250/hls/colorsbangla.m3u8
 http://172.16.29.250/hls/duranta.m3u8
 #EXTINF:0 CUID="36" tvg-name="GaanBangla" tvg-logo="http://bciptv.net/assets/images/gaanbangla.jpg" group-title="Bangla",GaanBangla
 http://172.16.29.250/hls/gb.m3u8
-#EXTINF:0 CUID="37" tvg-name="ZimvsNed" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Sports",ZimvsNed
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/KQY9_KRyFKxdb2R72XFv55SEeghz9DrCVyfgl2lTC8K3yc5DWXt6jf_EBt9Hxhhmm2tVad4T6ZMhRl410bvLIg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:0 CUID="37" tvg-name="ZimvsNed" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Sports",Fancode BD AFG IN
+https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_1.m3u8
 #EXTINF:0 CUID="39" tvg-name="T Sports" tvg-logo="http://172.16.29.250/img/tsports.jpg" group-title="Bangla",GTV 2
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=b193e5228f6a333d05ada952ad01f371b1f90cc4-737edf8dc3d387bb81910083417daf63-1688555714-1688544914
 #EXTINF:0 CUID="41" tvg-name="Anmals Planet" tvg-logo="http://bciptv.net/assets/images/animalplanetnew.jpg" group-title="Bangla",Anmals Planet
