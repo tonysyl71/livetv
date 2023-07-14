@@ -143,5 +143,5 @@ http://172.16.29.250/hls/mnx-hd.m3u8
 http://172.16.29.250/hls/lotus.m3u8
 #EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Argentina English
 https://ranapk.fun/MAC2/ast3/play.m3u8
-#EXTINF:0 CUID="127" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", TSport
-http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8?token=c919ec30cd8fbf87e9343c94f8963be6c1a49753-c4208cc77de4a42695a58e1828fb98d2-1689072479-1689061679
+#EXTINF:0 CUID="127" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Toffee
+https://iam-ranapk.tk/BANx/play.m3u8
