@@ -102,7 +102,7 @@ http://172.16.29.250/hls/zoom.m3u8
 #EXTINF:0 CUID="51" tvg-name="Star Sports Select 2" tvg-logo="http://172.16.29.250/img/select2.jpg" group-title="Sports",Star Sports Select 2
 http://172.16.29.250/hls/select2.m3u8
 #EXTINF:0 CUID="53" tvg-name="Cartoon Network HN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sports18_official_logo.png/300px-Sports18_official_logo.png" group-title="Sports",Sports 18 
-http://172.16.29.250/hls/bein1.m3u8
+http://172.16.29.250/hls/18.m3u8
 #EXTINF:0 CUID="107" tvg-name="EPL" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/41ukv2h6cvn8kfyc_1621330302.jpeg" group-title="Foyzur Channels Not Work Always",EPL
 https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
 #EXTINF:0 CUID="108" tvg-name="Nagorik TV HD" tvg-logo="http://172.16.29.250/img/nagorik.jpg" group-title="Bangla",Nagorik TV HD
