@@ -118,7 +118,7 @@ http://g4b.alwaysdata.net/tsports1080p.m3u8
 #EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
 http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:0 CUID="114" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports",Star Sports 1
-http://172.16.29.250/hls/stersports1hd.m3u8
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:0 CUID="115" tvg-name="PTV Sports" tvg-logo="http://172.16.29.250/img/ptv.jpg" group-title="Sports",PTV Sports
 http://172.16.29.250/hls/ptv.m3u8
 #EXTINF:0 CUID="116" tvg-name="Sony PIX HD" tvg-logo="http://172.16.29.250/img/sonypixhd.jpgg" group-title="English", Sony PIX HD
