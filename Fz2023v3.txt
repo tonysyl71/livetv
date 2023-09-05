@@ -113,8 +113,8 @@ http://172.16.29.250/hls/pogo.m3u8
 http://172.16.29.250/hls/nick.m3u8
 #EXTINF:0 CUID="111" tvg-name="Star Sports 2" tvg-logo="http://172.16.29.250/img/ster-sport-2hd.png" group-title="Sports",Star Sports 2
 http://172.16.29.250/hls/starsports2.m3u8
-#EXTINF:0 CUID="112" tvg-name="Fancode BDvsAFG HD" tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo.-830x379.png" group-title="Sports",BD AFG Tsport 1080p
-http://g4b.alwaysdata.net/tsports1080p.m3u8
+#EXTINF:0 CUID="112" tvg-name="Fancode BDvsAFG HD" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports",Star Sports 1 v3
+http://172.16.29.28/hls/sports3.m3u8
 #EXTINF:0 CUID="113" tvg-name="Discovery HD" tvg-logo="http://172.16.29.250/img/dis.png" group-title="English", Discovery HD
 http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:0 CUID="114" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports",Star Sports 1
@@ -141,7 +141,7 @@ http://172.16.29.250/hls/wild.m3u8
 http://172.16.29.250/hls/mnx-hd.m3u8
 #EXTINF:0 CUID="125" tvg-name="Lotus" tvg-logo="http://172.16.29.250/img/lotus.png" group-title="English", Lotus
 http://172.16.29.250/hls/lotus.m3u8
-#EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Argentina English
-https://ranapk.fun/MAC2/ast3/play.m3u8
+#EXTINF:0 CUID="126" tvg-name="Tata IPL" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports", Star Sports 1 v2
+http://172.16.29.242:8080/fnet/live2/index.m3u8
 #EXTINF:0 CUID="127" tvg-name="Tata IPL" tvg-logo="https://i0.wp.com/worldcupupdates.org/wp-content/uploads/2019/02/tata-ipl-2022-1-1024x576.png" group-title="English", Toffee Asia
 http://live.himel-himu.tk/Toffee-Worldwide/AsiaCup-2023/hls/Himel-Op.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1693733546:KeyName=prod_live_events:Signature=cdX-43y1caaJHN3K7yN6l2S39u0O6FyaXr8Hvp7j0e9jI8f6ne5nfVk5AKVshC_s-wYeL1NVgwZctZAOiAhYDQ&auth=Sports-Op
