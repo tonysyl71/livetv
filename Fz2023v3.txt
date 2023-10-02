@@ -43,8 +43,8 @@ http://172.16.29.250/hls/duranta.m3u8
 http://172.16.29.250/hls/gb.m3u8
 #EXTINF:0 CUID="37" tvg-name="ZimvsNed" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Sports",Fancode BD AFG IN
 https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_1.m3u8
-#EXTINF:0 CUID="39" tvg-name="T Sports" tvg-logo="http://172.16.29.250/img/tsports.jpg" group-title="Bangla",T Sport ACC
-https://rohabtvbd.online/T-Sports-HD/video.m3u8?token=rohabtv
+#EXTINF:0 CUID="39" tvg-name="T Sports" tvg-logo="http://172.16.29.250/img/tsports.jpg" group-title="Bangla",T Sport CWC
+https://stream.midiplexhd.com/tsports-access/tracks-v1a1/mono.m3u8?token=8669592f42e97af9fe700e5ee7a622de2031c600-72bb0920b330531cfb17ea14ae9c155c-1696320909-1696234509
 #EXTINF:0 CUID="41" tvg-name="Anmals Planet" tvg-logo="http://bciptv.net/assets/images/animalplanetnew.jpg" group-title="Bangla",Anmals Planet
 http://15.1.5.10:8082/animalplanent/index.m3u8?token=381f960c4a0f4cfc7922118e1098d8dbaf284a25-a98666721562719e334a5c910335a90e-1672759055-1672748255
 #EXTINF:0 CUID="42" tvg-name="Nat Geo" tvg-logo="http://bciptv.net/assets/images/nationalgeobd.jpg" group-title="Bangla",Nat Geo
