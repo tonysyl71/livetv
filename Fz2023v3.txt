@@ -41,8 +41,8 @@ http://172.16.29.250/hls/colorsbangla.m3u8
 http://172.16.29.250/hls/duranta.m3u8
 #EXTINF:0 CUID="36" tvg-name="GaanBangla" tvg-logo="http://bciptv.net/assets/images/gaanbangla.jpg" group-title="Bangla",GaanBangla
 http://172.16.29.250/hls/gb.m3u8
-#EXTINF:0 CUID="37" tvg-name="ZimvsNed" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Sports",Fancode BD AFG IN
-https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_1.m3u8
+#EXTINF:0 CUID="37" tvg-name="ZimvsNed" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Sports",T Sports Akash
+https://stream.midiplexhd.com/sky_12/tracks-v1a1/mono.m3u8?token=ff7aec19672550d16b19d5647a7af6965664b591-5d4bc14dbd4a7d6d04d221c54ff228ba-1696321275-1696234875
 #EXTINF:0 CUID="39" tvg-name="T Sports" tvg-logo="http://172.16.29.250/img/tsports.jpg" group-title="Bangla",T Sport CWC
 https://stream.midiplexhd.com/tsports-access/tracks-v1a1/mono.m3u8?token=8669592f42e97af9fe700e5ee7a622de2031c600-72bb0920b330531cfb17ea14ae9c155c-1696320909-1696234509
 #EXTINF:0 CUID="41" tvg-name="Anmals Planet" tvg-logo="http://bciptv.net/assets/images/animalplanetnew.jpg" group-title="Bangla",Anmals Planet
@@ -141,7 +141,7 @@ http://172.16.29.250/hls/wild.m3u8
 http://172.16.29.250/hls/mnx-hd.m3u8
 #EXTINF:0 CUID="125" tvg-name="Lotus" tvg-logo="http://172.16.29.250/img/lotus.png" group-title="English", Lotus
 http://172.16.29.250/hls/lotus.m3u8
-#EXTINF:0 CUID="126" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports", Star Sports 1 v2
-http://172.16.29.242:8080/fnet/live2/index.m3u8
+#EXTINF:0 CUID="126" tvg-name="Star Sports 1" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports", CWC FHD
+http://bigtv.live:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=b8b3403f18dd290e81d1cca55a5a660fd0fef8c2-76ffb48a7d2f50e2c2c711b730d9d49b-1696245673-1696234873
 #EXTINF:0 CUID="127" tvg-name="Tata IPL" tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" group-title="Sports", Star Sports 1 FHD
 http://172.16.29.250/hls/stersports1hd.m3u8
