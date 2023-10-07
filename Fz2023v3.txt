@@ -41,8 +41,8 @@ http://172.16.29.250/hls/colorsbangla.m3u8
 http://172.16.29.250/hls/duranta.m3u8
 #EXTINF:0 CUID="36" tvg-name="GaanBangla" tvg-logo="http://bciptv.net/assets/images/gaanbangla.jpg" group-title="Bangla",GaanBangla
 http://172.16.29.250/hls/gb.m3u8
-#EXTINF:0 CUID="37" tvg-name="ZimvsNed" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Sports",T Sports Akash
-https://stream.midiplexhd.com/sky_12/tracks-v1a1/mono.m3u8?token=ff7aec19672550d16b19d5647a7af6965664b591-5d4bc14dbd4a7d6d04d221c54ff228ba-1696321275-1696234875
+#EXTINF:0 CUID="37" tvg-name="ZimvsNed" tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Sports",Rabbithole
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/KBjgl57fBUy5ZAlsHcRMHXlcRELUvpKclNIlb_aW6mPCrLpbgeiRnX2E1g8IhrFEhNM73BIuR5CW7UxuJMM1Yw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:0 CUID="39" tvg-name="T Sports" tvg-logo="http://172.16.29.250/img/tsports.jpg" group-title="Bangla",T Sport CWC
 http://bigtv.live:8080/WorldCupSD1/tracks-v1a1/mono.m3u8?token=f8dece3209a4864e336de89e156502e8ca3bf422-4795def62507dcca976f84a093b52860-1696665192-1696654392
 #EXTINF:0 CUID="41" tvg-name="Anmals Planet" tvg-logo="http://bciptv.net/assets/images/animalplanetnew.jpg" group-title="Bangla",Anmals Planet
